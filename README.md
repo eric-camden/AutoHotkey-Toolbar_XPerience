@@ -292,7 +292,7 @@ Toolbar XPerience.lnk in the Windows Startup folder
 
 ---
 
-## Recommended Repository Layout
+## Repository Layout
 
 ```text
 Toolbar-XPerience
@@ -328,7 +328,7 @@ Toolbar-XPerience
 
 ## License
 
-Choose a license before publishing. MIT is a common choice for small AutoHotkey utilities.
+MIT 
 
 ---
 
